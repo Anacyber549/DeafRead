@@ -40,7 +40,7 @@ export function HeaderBar({
             <BookOpen className="h-6 w-6" />
           </div>
           <span className="text-2xl font-bold tracking-tight whitespace-nowrap shrink-0">
-            SignRead
+            DeafRead
           </span>
         </div>
 
