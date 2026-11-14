@@ -1,0 +1,6 @@
+{
+  "name": "SignRead",
+  "description": "A visual reading helper for Deaf students with dyslexia, featuring customizable typography, one-sentence-at-a-time reading, instant easy-English word definitions with ASL dictionary links, sentence simplification, and optional on-device eye-tracking assistance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
